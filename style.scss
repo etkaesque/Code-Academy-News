@@ -541,13 +541,15 @@ body {
             .small-news-wrapper {
                 display: flex;
                 flex-direction: column;
+
+                .link-small {
+                    width: 100%;
+                }
         
         
             }
 
-            .link-small {
-                width: 100%;
-            }
+           
         }
     
 

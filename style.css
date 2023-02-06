@@ -337,7 +337,7 @@ body {
     display: flex;
     flex-direction: column;
   }
-  .wrap .left-wrap .link-small {
+  .wrap .left-wrap .small-news-wrapper .link-small {
     width: 100%;
   }
 }/*# sourceMappingURL=style.css.map */
